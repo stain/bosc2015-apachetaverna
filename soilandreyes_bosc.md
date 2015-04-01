@@ -9,10 +9,10 @@
 
 [Apache Taverna](http://taverna.incubator.apache.org/) is a
 domain-independent *scientific workflow* system, encompassing a graphical
-workbench, command line tools, server and APIs. While Taverna
+workbench, command line tools, server and APIs. Although Taverna
 was conceived for
 [bioinformatics](http://taverna.incubator.apache.org/introduction/taverna-in-use/bioinformatics),
-its user base now also encase domains as
+its user base now also encompasses domains as
 diverse as [astronomy](http://amiga.iaa.es/p/290-astrotaverna.htm),
 [digital preservation](http://www.scape-project.eu/),
 [biodiversity](http://www.biovel.eu/) and
@@ -26,17 +26,17 @@ an [incubating project](http://incubator.apache.org/) at the
 
 Here we describe our motivation for changing the *governance* and *ownership* of
 the Taverna project, and reflect on our experience
-and challenges of transitioning a University-led research software
+and challenges in transitioning a University-led research software
 activity to an open development process and
 building a wider developer community.
 
 *Research Software* supports scientists
-and researchers, its development usually funded for domain-specific projects
+and researchers; its development is usually funded for domain-specific projects
 and made publicly available as Open Source through
 code repositories like
 [GitHub](https://github.com/) and [BitBucket](https://bitbucket.org/).
-When research software develop into a mature code base
-and gain a diverse user base, the initial funding and related projects may
+By the time that research software develops into a mature code base
+and gains a diverse user base, the initial funding and related projects may
 already be finished, yet ownership and control of the project typically
 remains with the original authors. Users and third-party developers have access
 to the *source code*, but are often not included in project decisions,
@@ -44,14 +44,14 @@ and may not feel _ownership_ to contribute code, documentation or
 support for others.
 
 The original developers may eventually become involved in new projects that do not
-directly relate to the original project, and may loose focus on its changing user
+directly relate to the original project, and may lose focus on its changing user
 base. Thus it becomes critical to also grow a sustainable and diverse
 *developer community*, and to build an *open governance* model that encourages
-engagement and commitment from everyone using the software. Effort like the
-[Software Sustainability Institute](http://software.ac.uk/) is
+engagement and commitment from everyone using the software. Efforts like the
+[Software Sustainability Institute](http://software.ac.uk/) are
 crucial, as it helps guide [research software engineers](http://www.rse.ac.uk/)
-in best practices for making their research software open and maintainable, but
-ultimately, the success of an open source project should lead to a change of its
+in best practices for making their research software open and maintainable.
+Ultimately the success of an open source project should lead to a change of its
 structure and management to include anyone in its further development.
 
 For Taverna, we considered several options to reduce the lead role and
@@ -71,8 +71,8 @@ at the [Free Software Foundation](http://www.fsf.org/), the
 the [Outercurve Foundation](http://www.outercurve.org/) which is backed by Microsoft,
 and the [Apache Software Foundation](http://apache.org/).
 The different options come with different implications for the
-project modus operandi, licensing, community, politics,
-infrastructure and public impression, which must be evaluated
+project's way of working, licensing, community, politics,
+infrastructure and public impression - all of which must be evaluated
 independently for different research software projects.
 
 _TODO: We chose Apache. Implications?_
