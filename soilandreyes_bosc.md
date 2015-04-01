@@ -1,6 +1,6 @@
 --------------   -------------------------------------------
 **Title**        Apache Taverna: Sustaining research software at the Apache Software Foundation
-**Authors**       _Stian Soiland-Reyes_ [http://orcid.org/0000-0001-9842-9718](http://orcid.org/0000-0001-9842-9718), [Apache Taverna team](http://taverna.incubator.apache.org/about/)
+**Authors**       _Stian Soiland-Reyes_ [http://orcid.org/0000-0001-9842-9718](http://orcid.org/0000-0001-9842-9718), Alan R Williams [http://orcid.org/0000-0003-3156-2105](http://orcid.org/0000-0003-3156-2105), [Apache Taverna team](http://taverna.incubator.apache.org/about/)
 **Affiliation**  Apache Software Foundation; eScience Lab, University of Manchester
 **Contact**      [http://taverna.incubator.apache.org/contact](http://taverna.incubator.apache.org/contact)
 **URL**          [http://taverna.incubator.apache.org/](http://taverna.incubator.apache.org/)
