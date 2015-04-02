@@ -4,7 +4,7 @@
 **Affiliation**  Apache Software Foundation; [eScience Lab](http://www.cs.manchester.ac.uk/our-research/activities/e-science/), University of Manchester
 **Contact**      [http://taverna.incubator.apache.org/contact](http://taverna.incubator.apache.org/contact)
 **URL**          [http://taverna.incubator.apache.org/](http://taverna.incubator.apache.org/)
-**License**      [Apache Software License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+**License**      [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 --------------   -------------------------------------------
 
 [Apache Taverna](http://taverna.incubator.apache.org/) is a
