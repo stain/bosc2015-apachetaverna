@@ -60,7 +60,6 @@ to move to a neutral ownership model where
 any interested developers could contribute to Taverna's development
 on an equal standing. One of the options was to create a Taverna Foundation,
 but this would have required legal administration and a dedicated budget.
-
 Another option was to assign copyright and management of the code to a
 well-established software foundation
 like the
@@ -75,15 +74,16 @@ project's way of working, licensing, community, politics,
 infrastructure and public impression - which must be evaluated
 for the particular research software project.
 
-By choosing Apache as its new home, we put emphasis on the community
+By choosing Apache as Taverna's new home, we put emphasis on the community
 building, a strong and neutral governance model, and clear
 intellectual property management, which we believe makes the project
 more approachable for new participants and commercial entities.
 While the initial months as an Apache Incubator involved a fair bit of
 administrative overhead, such as moving mailing lists, transitioning web sites
-and bug trackers and verifying dependency licensing and intellectual property
-ownership of the donated source code, we feel this is offset already by an
-increase in awareness in the community at large. Several new developers have
-been attracted to the project, with many proposals and new ideas, including 4
-[Google Summer of Code](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)
+and bug trackers, checking dependency licensing and
+verifying intellectual property
+ownership of the donated source code, we feel this effort is offset already by an
+increase in awareness and engagement in the community at large. Several new developers have
+been attracted to the project, with many proposals and new ideas, including four
+[Google Summer of Code 2015](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)
 student applications.
