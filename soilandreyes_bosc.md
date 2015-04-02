@@ -33,7 +33,7 @@ building a wider developer community.
 *Research Software* supports scientists
 and researchers; its development is usually funded for domain-specific projects
 and made publicly available as Open Source through
-code repositories ([GitHub](https://github.com/), 
+code repositories ([GitHub](https://github.com/),
 [BitBucket](https://bitbucket.org/)).
 By the time research software develops into a mature code base
 and gains a diverse user base, the initial funding and related projects may
@@ -70,21 +70,20 @@ at the [Free Software Foundation](http://www.fsf.org/), the
 [Eclipse Foundation](http://wiki.eclipse.org/Development_Resources/HOWTO/Starting_A_New_Project),
 the [Outercurve Foundation](http://www.outercurve.org/) which is backed by Microsoft,
 and the [Apache Software Foundation](http://apache.org/).
-The different options come with different implications for the
+The different options come with implications for the
 project's way of working, licensing, community, politics,
-infrastructure and public impression - all of which must be evaluated
-independently for different research software projects.
+infrastructure and public impression - which must be evaluated
+with regards to the particular research software project.
 
 By choosing Apache as its new home, we put emphasis on the community
 building, a strong and neutral governance model, and clear
 intellectual property management, which we believe makes the project
 more approachable for new participants and commercial entities.
-
 While the initial months as an Apache Incubator involved a fair bit of
 administrative overhead, such as moving mailing lists, transitioning web sites
 and bug trackers and verifying dependency licensing and intellectual property
 ownership of the donated source code, we feel this is offset already by an
 increase in awareness in the community at large. Several new developers have
-been attracted to the project, with many proposals and new idea, including 4
+been attracted to the project, with many proposals and new ideas, including 4
 [Google Summer of Code](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)
 student applications.
