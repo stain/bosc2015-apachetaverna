@@ -1,7 +1,7 @@
 --------------   -------------------------------------------
 **Title**        Apache Taverna: Sustaining research software at the Apache Software Foundation
-**Authors**       _Stian Soiland-Reyes_ [http://orcid.org/0000-0001-9842-9718](http://orcid.org/0000-0001-9842-9718), Alan R Williams [http://orcid.org/0000-0003-3156-2105](http://orcid.org/0000-0003-3156-2105), [Apache Taverna team](http://taverna.incubator.apache.org/about/)
-**Affiliation**  Apache Software Foundation; eScience Lab, University of Manchester
+**Authors**       [_Stian Soiland-Reyes_](http://orcid.org/0000-0001-9842-9718), [Ian Dunlop](http://orcid.org/0000-0001-7066-3350), [Alan R Williams](http://orcid.org/0000-0003-3156-2105), [Apache Taverna team](http://taverna.incubator.apache.org/about/)
+**Affiliation**  Apache Software Foundation; [eScience Lab](http://www.cs.manchester.ac.uk/our-research/activities/e-science/), University of Manchester
 **Contact**      [http://taverna.incubator.apache.org/contact](http://taverna.incubator.apache.org/contact)
 **URL**          [http://taverna.incubator.apache.org/](http://taverna.incubator.apache.org/)
 **License**      [Apache Software License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
@@ -22,7 +22,7 @@ Taverna has been an open source project since 2003, developed by the
 originally led by the University of Manchester
 and EMBL-EBI. In October 2014, Taverna became
 an [incubating project](http://incubator.apache.org/) at the
-[Apache Software Foundation](http://www.apache.org/).
+[Apache Software Foundation](http://www.apache.org/) (ASF).
 
 Here we describe our motivation for changing the *governance* and *ownership* of
 the Taverna project, and reflect on our experience
@@ -33,18 +33,18 @@ building a wider developer community.
 *Research Software* supports scientists
 and researchers; its development is usually funded for domain-specific projects
 and made publicly available as Open Source through
-code repositories like
-[GitHub](https://github.com/) and [BitBucket](https://bitbucket.org/).
-By the time that research software develops into a mature code base
+code repositories ([GitHub](https://github.com/), 
+[BitBucket](https://bitbucket.org/)).
+By the time research software develops into a mature code base
 and gains a diverse user base, the initial funding and related projects may
 already be finished, yet ownership and control of the project typically
-remains with the original authors. Users and third-party developers have access
-to the *source code*, but are often not included in project decisions,
+remains with the original authors. Users and third-party developers have
+the *source code*, but are often not included in project decisions,
 and may not feel _ownership_ to contribute code, documentation or
 support for others.
 
 The original developers may eventually become involved in new projects that do not
-directly relate to the original project, and may lose focus as the user base changes. 
+directly relate to the original project, and may lose focus as the user base changes.
 Thus it becomes critical to grow a sustainable and diverse
 *developer community*, and to build an *open governance* model that encourages
 engagement and commitment from everyone using the software. Efforts like the
@@ -75,6 +75,16 @@ project's way of working, licensing, community, politics,
 infrastructure and public impression - all of which must be evaluated
 independently for different research software projects.
 
-_TODO: We chose Apache. Implications?_
+By choosing Apache as its new home, we put emphasis on the community
+building, a strong and neutral governance model, and clear
+intellectual property management, which we believe makes the project
+more approachable for new participants and commercial entities.
 
-_TODO: Results so far. Plans._ The initial months as an Apache Incubator has seen an increase in administrative overhead as mailing lists have been moved, websites built etc but this is offset by an increase in awareness in the community at large. Several new developers have been attracted to the project with many proposals and new ideas (_links to code?_).
+While the initial months as an Apache Incubator involved a fair bit of
+administrative overhead, such as moving mailing lists, transitioning web sites
+and bug trackers and verifying dependency licensing and intellectual property
+ownership of the donated source code, we feel this is offset already by an
+increase in awareness in the community at large. Several new developers have
+been attracted to the project, with many proposals and new idea, including 4
+[Google Summer of Code](https://www.google-melange.com/gsoc/homepage/google/gsoc2015)
+student applications.
