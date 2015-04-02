@@ -8,12 +8,12 @@
 --------------   -------------------------------------------
 
 [Apache Taverna](http://taverna.incubator.apache.org/) is a
-domain-independent *scientific workflow* system, encompassing a graphical
+*scientific workflow* system, encompassing a graphical
 workbench, command line tools, server and APIs. Although Taverna
 was conceived for
 [bioinformatics](http://taverna.incubator.apache.org/introduction/taverna-in-use/bioinformatics),
-its user base now also encompasses domains as
-diverse as [astronomy](http://amiga.iaa.es/p/290-astrotaverna.htm),
+its user base also encompasses domains such as
+[astronomy](http://amiga.iaa.es/p/290-astrotaverna.htm),
 [digital preservation](http://www.scape-project.eu/),
 [biodiversity](http://www.biovel.eu/) and
 [virtual physiology](http://www.vph-share.eu/).
@@ -22,7 +22,7 @@ Taverna has been an open source project since 2003, developed by the
 originally led by the University of Manchester
 and EMBL-EBI. In October 2014, Taverna became
 an [incubating project](http://incubator.apache.org/) at the
-[Apache Software Foundation](http://www.apache.org/) (ASF).
+[Apache Software Foundation](http://www.apache.org/).
 
 Here we describe our motivation for changing the *governance* and *ownership* of
 the Taverna project, and reflect on our experience
@@ -52,7 +52,7 @@ engagement and commitment from everyone using the software. Efforts like the
 crucial, as it helps guide [research software engineers](http://www.rse.ac.uk/)
 in best practices for making their research software open and maintainable.
 Ultimately the success of an open source project should lead to a change of its
-structure and management to include anyone in its further development.
+structure and management to widen its developer base.
 
 For Taverna, we considered several options to reduce the lead role and
 responsibility that the University of Manchester had, and
@@ -73,7 +73,7 @@ and the [Apache Software Foundation](http://apache.org/).
 The different options come with implications for the
 project's way of working, licensing, community, politics,
 infrastructure and public impression - which must be evaluated
-with regards to the particular research software project.
+for the particular research software project.
 
 By choosing Apache as its new home, we put emphasis on the community
 building, a strong and neutral governance model, and clear
