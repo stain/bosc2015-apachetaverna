@@ -17,9 +17,9 @@ diverse as [astronomy](http://amiga.iaa.es/p/290-astrotaverna.htm),
 [digital preservation](http://www.scape-project.eu/),
 [biodiversity](http://www.biovel.eu/) and
 [virtual physiology](http://www.vph-share.eu/).
-Taverna has been developed open source since 2003 by the
-[myGrid consortium](http://www.mygrid.org.uk/),
-led by the University of Manchester
+Taverna has been an open source project since 2003, developed by the
+[myGrid consortium](http://www.mygrid.org.uk/) and
+originally led by the University of Manchester
 and EMBL-EBI. In October 2014, Taverna became
 an [incubating project](http://incubator.apache.org/) at the
 [Apache Software Foundation](http://www.apache.org/).
@@ -44,8 +44,8 @@ and may not feel _ownership_ to contribute code, documentation or
 support for others.
 
 The original developers may eventually become involved in new projects that do not
-directly relate to the original project, and may lose focus on its changing user
-base. Thus it becomes critical to also grow a sustainable and diverse
+directly relate to the original project, and may lose focus as the user base changes. 
+Thus it becomes critical to grow a sustainable and diverse
 *developer community*, and to build an *open governance* model that encourages
 engagement and commitment from everyone using the software. Efforts like the
 [Software Sustainability Institute](http://software.ac.uk/) are
@@ -55,7 +55,7 @@ Ultimately the success of an open source project should lead to a change of its
 structure and management to include anyone in its further development.
 
 For Taverna, we considered several options to reduce the lead role and
-responsibility that University of Manchester had ended up with, and
+responsibility that the University of Manchester had, and
 to move to a neutral ownership model where
 any interested developers could contribute to Taverna's development
 on an equal standing. One of the options was to create a Taverna Foundation,
@@ -77,4 +77,4 @@ independently for different research software projects.
 
 _TODO: We chose Apache. Implications?_
 
-_TODO: Results so far. Plans._
+_TODO: Results so far. Plans._ The initial months as an Apache Incubator has seen an increase in administrative overhead as mailing lists have been moved, websites built etc but this is offset by an increase in awareness in the community at large. Several new developers have been attracted to the project with many proposals and new ideas (_links to code?_).
